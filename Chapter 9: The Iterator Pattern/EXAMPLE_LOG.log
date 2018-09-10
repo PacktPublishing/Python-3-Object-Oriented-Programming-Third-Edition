@@ -1,0 +1,23 @@
+unrelated log messages
+sd 0:0:0:0 Attached Disk Drive
+unrelated log messages
+sd 0:0:0:0 (SERIAL=ZZ12345)
+unrelated log messages
+sd 0:0:0:0 [sda] Options
+unrelated log messages
+XFS ERROR [sda]
+unrelated log messages
+sd 2:0:0:1 Attached Disk Drive
+unrelated log messages
+sd 2:0:0:1 (SERIAL=ZZ67890)
+unrelated log messages
+sd 2:0:0:1 [sdb] Options
+unrelated log messages
+sd 3:0:1:8 Attached Disk Drive
+unrelated log messages
+sd 3:0:1:8 (SERIAL=WW11111)
+unrelated log messages
+sd 3:0:1:8 [sdc] Options
+unrelated log messages
+XFS ERROR [sdc]
+unrelated log messages
