@@ -1,2 +1,6 @@
 .python-version
 .vscode
+__pycache__
+lastfailed
+nodeids
+.pytest_cache
