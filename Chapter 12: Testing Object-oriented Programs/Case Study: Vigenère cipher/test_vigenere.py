@@ -19,7 +19,7 @@ def test_encode_character():
 
 def test_encode_spaces():
     cipher = VigenereCipher("TRAIN")
-    encoded = cipher.encode("ENCODED IN PYTHON")
+    encoded = cipher.encode("ENCODED IN PYTHON") 
     assert encoded == "XECWQXUIVCRKHWA"
 
 
