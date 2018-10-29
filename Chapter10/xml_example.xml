@@ -1,0 +1,15 @@
+<book>
+    <author>Dusty Phillips</author>
+    <publisher>Packt Publishing</publisher>
+    <title>Python 3 Object Oriented Programming</title>
+    <content>
+        <chapter>
+            <number>1</number>
+            <title>Object Oriented Design</title>
+        </chapter>
+        <chapter>
+            <number>2</number>
+            <title>Objects In Python</title>
+        </chapter>
+    </content>
+</book>

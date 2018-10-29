@@ -1,0 +1,9 @@
+Jan 26, 2015 11:25:25    DEBUG        This is a debugging message.
+Jan 26, 2015 11:25:36    INFO         This is an information method.
+Jan 26, 2015 11:25:46    WARNING      This is a warning. It could be serious.
+Jan 26, 2015 11:25:52    WARNING      Another warning sent.
+Jan 26, 2015 11:25:59    INFO         Here's some information.
+Jan 26, 2015 11:26:13    DEBUG        Debug messages are only useful if you want to figure something out.
+Jan 26, 2015 11:26:32    INFO         Information is usually harmless, but helpful.
+Jan 26, 2015 11:26:40    WARNING      Warnings should be heeded.
+Jan 26, 2015 11:26:54    WARNING      Watch for warnings.
