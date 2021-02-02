@@ -46,7 +46,8 @@ class MediaLoader(metaclass=abc.ABCMeta):
     def play(self):
         pass
 
-    @abc.abstractproperty
+    @property
+    @abc.abstractmethod
     def ext(self):
         pass
 
