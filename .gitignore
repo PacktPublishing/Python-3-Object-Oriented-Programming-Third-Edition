@@ -4,3 +4,4 @@ __pycache__
 lastfailed
 nodeids
 .pytest_cache
+.idea/*

@@ -29,7 +29,7 @@ class TempGetter(Thread):
 
     def run(self):
         url = (
-            "http://dd.weatheroffice.ec.gc.ca/citypage_weather/xml/"
+            "https://dd.weather.gc.ca/citypage_weather/xml/"
             f"{self.province}/{self.code}_e.xml"
         )
         with urlopen(url) as stream:
