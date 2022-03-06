@@ -11,10 +11,10 @@ def search(paths, query_q, results_q):
 
 if __name__ == "__main__":
     from multiprocessing import Process, Queue, cpu_count
-    from path import path
+    from pathlib import Path
 
     cpus = cpu_count()
-    pathnames = [f for f in path(".").listdir() if f.isfile()]
+    pathnames = [f for f in Path(".").iterdir() if f.is_file()]
     paths = [pathnames[i::cpus] for i in range(cpus)]
     query_queues = [Queue() for p in range(cpus)]
     results_queue = Queue()
